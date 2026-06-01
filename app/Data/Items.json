@@ -1,0 +1,17 @@
+{
+    "Cremerie" : {
+        "zagalo" : {
+            "Components" : ["Ice Creame","Notella"] , 
+            "Description" : "Nice"
+        } , 
+        "coupe-simple": {
+            "Component" : ["Ice Creame","Notella","Banane"] ,
+            "Descripti" : "Frishe"
+        } 
+    } , 
+    "Restaurant" : {
+        "Salé" : {
+            "Coscos":""
+        }
+    } 
+}
